@@ -1,0 +1,71 @@
+.card {
+	float:left;
+	width: 150px;
+	height: 200px;
+	border: 1px black solid;
+	border-radius: 5px;
+	background-color: red;
+	background-image:url('../images/all.png');
+	padding: 0;
+	margin:4px;
+	box-shadow: 5px 5px 5px #888888;
+	
+}
+.card.bird1 {
+	background-color: yellow;
+	background-position:0px 0px;
+}
+.card.bird2 {
+	background-color: blue;
+	background-position:-150px 0px;
+}
+.card.bird3 {
+	background-color: pink;
+	background-position:-300px 0px;
+}
+.card.bird4 {
+	background-color: orange;
+	background-position:-450px 0px;
+}
+.card.bird5 {
+	background-color: purple;
+	background-position:-600px 0px;
+}
+.card.bird6 {
+	background-color: turquoise;
+	background-position:-750px 0px;
+}
+.card.back {
+	background-color: green;
+	background-position:-900px 0px;
+}
+.card.cat1 {
+	background-position:-0px -200px;
+}
+.card.cat2 {
+	background-position:-150px -200px;
+}
+.card.cat3 {
+	background-position:-300px -200px;
+}
+.card.cat4 {
+	background-position:-450px -200px;
+}
+.card.scarecrow1 {
+	background-position:0px -400px;
+}
+.card.scarecrow2 {
+	background-position:-150px -400px;
+}
+.card.scarecrow3 {
+	background-position:0px -600px;
+}
+.card.scarecrow4 {
+	background-position:-150px -600px;
+}
+.card.scarecrow5 {
+	background-position:0px -800px;
+}
+.card.scarecrow6 {
+	background-position:-150px -800px;
+}
